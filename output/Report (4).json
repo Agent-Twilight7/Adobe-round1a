@@ -1,0 +1,4600 @@
+{
+  "title": "Contents",
+  "outline": [
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Mechanics Of Particles And Waves"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "(IC-121)"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Group Assignment"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Ishika - B23399"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Mehak - B23157"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Shanti - B23100"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Gopika - B23129"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Siya - B23180"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Pari - B24014"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Saanvi - B24018"
+    },
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "Indian Institute of Technology, Mandi,HP, India"
+    },
+    {
+      "level": "H1",
+      "page": 3,
+      "text": "0.1"
+    },
+    {
+      "level": "H1",
+      "page": 3,
+      "text": "Introduction"
+    },
+    {
+      "level": "H1",
+      "page": 5,
+      "text": "0.2"
+    },
+    {
+      "level": "H1",
+      "page": 5,
+      "text": "Basic Concepts of Oscillations"
+    },
+    {
+      "level": "H1",
+      "page": 7,
+      "text": "0.3"
+    },
+    {
+      "level": "H1",
+      "page": 7,
+      "text": "Coupled Oscillations in Nature"
+    },
+    {
+      "level": "H1",
+      "page": 9,
+      "text": "0.4"
+    },
+    {
+      "level": "H1",
+      "page": 9,
+      "text": "Firefly Synchronization"
+    },
+    {
+      "level": "H1",
+      "page": 11,
+      "text": "0.5"
+    },
+    {
+      "level": "H1",
+      "page": 11,
+      "text": "Mathematical Modeling"
+    },
+    {
+      "level": "H1",
+      "page": 13,
+      "text": "0.6"
+    },
+    {
+      "level": "H1",
+      "page": 13,
+      "text": "Simulation and Coding Work"
+    },
+    {
+      "level": "H1",
+      "page": 19,
+      "text": "0.7"
+    },
+    {
+      "level": "H1",
+      "page": 19,
+      "text": "Applications and Implications"
+    },
+    {
+      "level": "H1",
+      "page": 20,
+      "text": "0.8"
+    },
+    {
+      "level": "H1",
+      "page": 20,
+      "text": "Conclusion"
+    },
+    {
+      "level": "H1",
+      "page": 21,
+      "text": "Roles and Responsibilities"
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "0.1.1"
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "Introduce the phenomenon of fireflies synchronizing their"
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "flashes."
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "0.1.2"
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "Why This is Fascinating Both Biologically and Physi-"
+    },
+    {
+      "level": "H2",
+      "page": 3,
+      "text": "cally"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "0.2.1"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "Simple Harmonic Motion"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "0.2.2"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "Phase, Frequency, Amplitude, and Period"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "0.2.3"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "Coupled Oscillations"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "0.2.4"
+    },
+    {
+      "level": "H2",
+      "page": 5,
+      "text": "Relevance to Biological Systems"
+    },
+    {
+      "level": "H2",
+      "page": 7,
+      "text": "Examples of Coupled Oscillators"
+    },
+    {
+      "level": "H2",
+      "page": 7,
+      "text": "The Importance of Synchronization"
+    },
+    {
+      "level": "H2",
+      "page": 9,
+      "text": "0.4.1 Biological Basis of Firefly Flashing"
+    },
+    {
+      "level": "H2",
+      "page": 9,
+      "text": "0.4.2 How Synchronization Happens"
+    },
+    {
+      "level": "H2",
+      "page": 10,
+      "text": "0.4.3 Conditions for Synchronization"
+    },
+    {
+      "level": "H2",
+      "page": 10,
+      "text": "0.4.4 Significance in the Study of Collective Behavior"
+    },
+    {
+      "level": "H2",
+      "page": 11,
+      "text": "0.5.1"
+    },
+    {
+      "level": "H2",
+      "page": 11,
+      "text": "Pulse-Coupled Oscillator Model"
+    },
+    {
+      "level": "H2",
+      "page": 11,
+      "text": "0.5.2"
+    },
+    {
+      "level": "H2",
+      "page": 11,
+      "text": "Kuramoto Model (Continuous Phase Coupling)"
+    },
+    {
+      "level": "H2",
+      "page": 13,
+      "text": "Graphical Representation"
+    },
+    {
+      "level": "H2",
+      "page": 16,
+      "text": "3D Modeling"
+    },
+    {
+      "level": "H2",
+      "page": 19,
+      "text": "0.7.1"
+    },
+    {
+      "level": "H2",
+      "page": 19,
+      "text": "Technological Applications"
+    },
+    {
+      "level": "H2",
+      "page": 19,
+      "text": "0.7.2"
+    },
+    {
+      "level": "H2",
+      "page": 19,
+      "text": "Biological and Medical Applications"
+    },
+    {
+      "level": "H2",
+      "page": 20,
+      "text": "Real-world Reference: Firefly Synchronization"
+    },
+    {
+      "level": "H2",
+      "page": 20,
+      "text": "Watch it in Action!"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.1.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Introduce the phenomenon of fireflies synchronizing their flashes."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.1.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Why This is Fascinating Both Biologically and Physically . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.1.2.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Biological Fascination"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": ". . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "3"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.1.2.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Physical Fascination . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "3"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Basic Concepts of Oscillations . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.2.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Simple Harmonic Motion . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.2.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Phase, Frequency, Amplitude, and Period . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.2.3"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Coupled Oscillations . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.2.4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Relevance to Biological Systems . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.3"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Coupled Oscillations in Nature . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "6"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.4"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Firefly Synchronization . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "8"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.5"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Mathematical Modeling"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "10"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.5.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Pulse-Coupled Oscillator Model . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "10"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.5.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Kuramoto Model (Continuous Phase Coupling)"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": ". . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "10"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.6"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Simulation and Coding Work"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": ". . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "12"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.7"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Applications and Implications . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "18"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.7.1"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Technological Applications . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "18"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.7.2"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Biological and Medical Applications . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "18"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "0.8"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "19"
+    },
+    {
+      "level": "H3",
+      "page": 2,
+      "text": "1"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "In the fading light of tropical forests, something magical begins to happen—thousands"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "of fireflies light up the night in perfect harmony. It’s not just a breathtaking sight;"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "it’s a beautiful blend of nature and science called firefly synchronization. At first"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "glance, it looks like some kind of coordinated performance, but surprisingly, there’s"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "no leader here—just simple rules followed by each firefly, leading to an extraordinary"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "collective behavior."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "Fireflies, or lightning bugs, glow thanks to a natural phenomenon called biolu-"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "minescence. They mainly use this light to communicate, especially during mating"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "season. In specific regions like Southeast Asia and the Great Smoky Mountains in"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "the U.S., entire swarms of fireflies have been observed syncing their flashes with"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "stunning precision. And they do this without any central control—each firefly fol-"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "lows its own rhythm and slightly tweaks it when it notices others flashing nearby."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "Slowly but surely, this leads to complete synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "From a scientific perspective, this behavior is an amazing example of what’s"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "known as coupled oscillations. Imagine each firefly as a tiny oscillator—something"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "that follows a repetitive cycle, like a heartbeat or a swinging pendulum. When these"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "oscillators are linked, they can influence each other’s timing and eventually sync up."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "This same principle pops up all over the place—in how neurons fire together, how"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "crowds end up clapping in rhythm, and even in how these fireflies blink as one."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "What makes firefly synchronization so fascinating is that it connects biology"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "with physics. It shows how simple, local interactions can lead to complex, global"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "patterns—something that’s right at the core of nonlinear dynamics and complex sys-"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "tems. In other words, it’s a perfect reminder of how nature often works in beautifully"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "unexpected ways."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "The synchronization of fireflies is one of nature’s most captivating displays of emer-"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "gent collective behavior. It elegantly combines biological communication with phys-"
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "ical principles, making it a true interdisciplinary wonder."
+    },
+    {
+      "level": "H3",
+      "page": 3,
+      "text": "2"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "0.1.2.1"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Biological Fascination"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "From a biological perspective, firefly synchronization is a brilliant example of how"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "simple organisms, without any central control, can coordinate in remarkably complex"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "ways. Several factors make this phenomenon especially intriguing:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Communication and Reproduction:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Male fireflies synchronize their flashing"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "patterns to enhance their visibility to females. By flashing in unison, they reduce"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "background noise and increase the chances of their signals being noticed—an effective"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "and optimized mating strategy."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Self-Organization Without a Leader:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Each firefly acts independently, yet"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "the entire group can achieve perfect synchronization simply through local interac-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "tions. This kind of leaderless coordination is also seen in other natural systems, such"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "as bird flocking, insect swarming, and even human crowd behavior."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Biological Rhythms and Neural Parallels:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "The rhythmic flashing of fireflies"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "reflects broader biological processes, such as heartbeat regulation and neuron firing."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Studying these insects can offer valuable insights into internal clocks and timing"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "mechanisms within living systems."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "0.1.2.2"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Physical Fascination"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "From a physics standpoint, firefly synchronization beautifully demonstrates the con-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "cept of coupled oscillators—a fundamental idea in many areas of science and engi-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "neering. Some of the most compelling aspects include:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Emergence of Order from Disorder:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Despite starting with random individ-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "ual rhythms, fireflies eventually align their flashes through simple, repeated inter-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "actions. This transition from chaos to order is a hallmark of spontaneous synchro-"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "nization in physical systems."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Mathematical Modeling and Simulation:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "The flashing behavior of fireflies"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "can be modeled using systems like Pulse-Coupled Oscillators and the Kuramoto"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Model. These models are not only applicable to fireflies but also to fields such as"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "neuroscience, network dynamics, and even power grid synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Cross-Disciplinary Insights:"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "Firefly synchronization sits at the intersection"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "of biology, physics, and mathematics. It offers a natural and accessible system to"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "explore complex topics like nonlinear dynamics, self-organization, control theory,"
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "and network science."
+    },
+    {
+      "level": "H3",
+      "page": 4,
+      "text": "3"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Simple harmonic motion (SHM) is a type of periodic motion where the restoring"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "force is directly proportional to displacement. It is described by the equation:"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "x"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "t"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ") ="
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "A"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "cos("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "ωt"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "+"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "ϕ"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "(1)"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "where"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "A"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "is amplitude,"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "is angular frequency, and"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "ϕ"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "is phase."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "This type of motion is foundational in physics and can describe many natural"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "phenomena, from pendulums and springs to atoms vibrating in a lattice."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Understanding these parameters is crucial to grasping how oscillators behave:"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Amplitude ("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "A"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ": The peak value of oscillation."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Frequency ("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "f"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ": Number of cycles per second, measured in Hertz (Hz)."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Phase ("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "ϕ"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ": The initial angle, indicating where in its cycle an oscillator starts."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "Period ("
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "T"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": ": Time taken for one complete cycle, inversely related to frequency."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "In systems of multiple oscillators, phase differences can lead to complex dynamics"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "— including synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "When oscillators influence each other’s motion, they become coupled. The interac-"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "tion can be weak or strong, and over time it may lead to synchronized movement."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "For example, if two pendulum clocks are mounted on the same wall, their vibra-"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "tions can affect each other through minute movements in the structure, eventually"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "synchronizing."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "In biology, synchronization is widespread:"
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "• Neurons firing together for signal processing."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "• The circadian rhythm aligning with the day-night cycle."
+    },
+    {
+      "level": "H3",
+      "page": 5,
+      "text": "4"
+    },
+    {
+      "level": "H3",
+      "page": 6,
+      "text": "• Heart pacemaker cells maintaining a steady beat."
+    },
+    {
+      "level": "H3",
+      "page": 6,
+      "text": "Studying oscillations in physics lays the groundwork for modeling such biological"
+    },
+    {
+      "level": "H3",
+      "page": 6,
+      "text": "systems effectively."
+    },
+    {
+      "level": "H3",
+      "page": 6,
+      "text": "5"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Coupled oscillations are everywhere in the natural world. Whether it’s a group of"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "fireflies blinking together or neurons firing in sync, these phenomena are all around"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "us—quietly shaping how living systems function and interact. At their core, cou-"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "pled oscillations involve systems of individual units (oscillators) that influence each"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "other’s rhythms until they synchronize, creating harmony out of randomness."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Metronomes on a Shared Surface:"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "When several mechanical metronomes are"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "placed on a movable platform, they eventually tick in perfect unison. The slight"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "movements of the surface transfer energy between them, aligning their rhythms over"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "time—a stunning demonstration of physical synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Heart Pacemaker Cells:"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "In our bodies, cardiac pacemaker cells in the heart"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "naturally synchronize their electrical pulses to maintain a steady heartbeat. This"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "coordination is vital for life—any disruption in this rhythm can lead to serious health"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "issues."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Neurons:"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Neurons in the brain often fire in synchrony during certain tasks."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "This collective activity underlies everything from sensory perception to movement"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "and even memory formation. Disruptions in neural synchronization are also linked"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "to conditions like epilepsy and Parkinson’s disease."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Fireflies:"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "And, of course, fireflies—some species blink in perfect harmony as"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "part of their mating behavior. What makes this so remarkable is that the synchro-"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "nization emerges without any central coordination—just local interactions between"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "neighbors."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Synchronization is not just a fascinating quirk—it plays a critical role in the sta-"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "bility, efficiency, and functionality of complex systems. Whether it’s coordinating"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "movement, processing information, or maintaining internal rhythms, synchroniza-"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "tion allows systems to operate cohesively."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "In biological systems, it ensures survival—by regulating heartbeats, orchestrat-"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "ing brain functions, or optimizing communication in fireflies. In physical systems,"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "synchronization helps manage everything from power grids to satellite constellations."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "Even in human societies, we see synchronization in applause, walking patterns, and"
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "social behavior."
+    },
+    {
+      "level": "H3",
+      "page": 7,
+      "text": "6"
+    },
+    {
+      "level": "H3",
+      "page": 8,
+      "text": "At its heart, synchronization is a powerful reminder of how simple interac-"
+    },
+    {
+      "level": "H3",
+      "page": 8,
+      "text": "tions—repeated over time—can create order from chaos. It’s one of nature’s most"
+    },
+    {
+      "level": "H3",
+      "page": 8,
+      "text": "elegant tools for creating unity in complexity."
+    },
+    {
+      "level": "H3",
+      "page": 8,
+      "text": "7"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "Among the many instances of coupled oscillations found in nature, the synchronous"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "flashing of fireflies stands out as both visually stunning and scientifically significant."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "This phenomenon, observed most famously in Southeast Asia and the Great Smoky"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "Mountains in the U.S., involves large swarms of fireflies flashing in perfect unison"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "without any centralized coordination."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "Fireflies produce light through a process known as bioluminescence, which occurs in"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "a specialized organ in their abdomen. The light is generated via a chemical reaction"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "involving luciferin, luciferase, ATP, and oxygen. During mating seasons, male fire-"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "flies use this light as a signaling mechanism to attract females. In certain species,"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "synchronization of these flashes increases mating success by enhancing visibility and"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "reducing signal noise."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• Each firefly has an internal clock (biological oscillator) that controls when it"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "flashes, typically at regular intervals."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• In the beginning, all fireflies flash independently, following their own natural"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "rhythms."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• When a firefly sees a neighboring flash, it responds by slightly advancing its"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "own flash—a small shift in its internal phase."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• These phase shifts accumulate over time."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "With repeated interactions and"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "enough fireflies in proximity, the collective timing of the flashes gradually"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "aligns."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• The synchronization spreads through the group as each firefly adjusts based"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "on local cues—its immediate neighbors’ flashes."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• There is no central control or leader firefly directing the timing. The process"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "is entirely decentralized."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• This is a self-organizing system—the global synchronization arises purely from"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "local interactions between individuals."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "• The result is stunning: a swarm of fireflies blinking in perfect unison, purely"
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "through simple, repetitive, and local communication."
+    },
+    {
+      "level": "H3",
+      "page": 9,
+      "text": "8"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Not all species of fireflies synchronize, and even those that do exhibit synchronization"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "only under certain conditions:"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "High Population Density:"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Synchronization tends to occur when a critical"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "mass of individuals is present in the environment."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Ambient Darkness:"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Low light pollution and natural darkness facilitate clear"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "visual signaling between fireflies."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Species-Specific Traits:"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Only certain species, like"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Pteroptyx malaccae"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "and"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Photinus carolinus"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": ", exhibit this behavior consistently."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Firefly synchronization is a compelling real-world case of collective behavior."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "It"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "showcases how individual agents with limited information and local interactions"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "can produce globally coordinated outcomes. This phenomenon has become a key"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "example in the study of complex systems, influencing research in fields such as"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "neuroscience, ecology, robotics, and network science."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "Rather than being just a biological curiosity, firefly synchronization provides a"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "window into the universal principles that govern coordination and timing in both"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "living organisms and engineered systems."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "The deeper scientific modeling of this"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "process will be explored in the following section."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "In the following section, we transition from the natural phenomenon to its mathe-"
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "matical modeling using a pulse-coupled oscillator framework."
+    },
+    {
+      "level": "H3",
+      "page": 10,
+      "text": "9"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "To understand and predict this synchronization, we use mathematical models."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "Each firefly is modeled as an oscillator with a phase"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "θ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": ". The phase increases steadily"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "until it hits a threshold, causing a flash and reset. Nearby fireflies then adjust their"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "phases slightly forward."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "dθ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "dt"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "="
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "+"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "X"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "δ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "("
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "t"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "−"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "t"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "(2)"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "Where:"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "is the natural frequency of the"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "-th firefly."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "δ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "("
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "t"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "−"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "t"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "represents a pulse input at the moment firefly"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "flashes."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "Model Assumptions"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": ":"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "• Identical natural frequencies for all fireflies."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "• Only nearest neighbors influence each firefly."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "• Phases reset after each flash."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "The Kuramoto model offers an alternative approach to modeling synchronization"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "in firefly swarms. Unlike the pulse-coupled oscillator model, which involves abrupt"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "phase resets triggered by discrete pulses (flashes), the Kuramoto model assumes"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "continuous interactions between oscillators based on phase differences."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "dθ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "dt"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "="
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "+"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "K"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "N"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "X"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "sin("
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "θ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "−"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "θ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": ")"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "(3)"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "Where:"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "θ"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "is the phase of the"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "-th firefly."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "is the natural flashing frequency of the"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "-th firefly."
+    },
+    {
+      "level": "H3",
+      "page": 11,
+      "text": "10"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "K"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "is the coupling strength that determines how strongly each firefly is influ-"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "enced by others."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "N"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "is the total number of fireflies (oscillators)."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "Model Assumptions"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": ":"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "• All fireflies are globally coupled; each firefly is influenced by all others."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "• The interactions are continuous and governed by the sine of phase differences."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "• Fireflies adjust their flashing phase smoothly over time without abrupt resets."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "The Kuramoto model shows that when the coupling constant"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "K"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "exceeds a certain"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "critical value, a majority of fireflies begin to gradually align their phases."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "This"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "synchronization emerges despite small differences in natural frequencies ("
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "ω"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "), offering"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "a theoretical explanation for the spontaneous global synchrony observed in some"
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "species of fireflies."
+    },
+    {
+      "level": "H3",
+      "page": 12,
+      "text": "11"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "To visualize the fascinating phenomenon of firefly synchronization, we developed"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "two simulations — one for 2D graphical representation and another for immersive"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "3D visualization. These were built using JavaScript (with p5.js) for interactivity"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "and Python for plotting synchronization metrics."
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "The following simulation uses JavaScript and the p5.js library to simulate fireflies as"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "coupled oscillators. Each firefly has an internal phase and adjusts its blinking based"
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "on its neighbors, ultimately leading to global synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 13,
+      "text": "12"
+    },
+    {
+      "level": "H3",
+      "page": 14,
+      "text": "13"
+    },
+    {
+      "level": "H3",
+      "page": 15,
+      "text": "14"
+    },
+    {
+      "level": "H3",
+      "page": 16,
+      "text": "This model leverages WebGL in p5.js to place fireflies in 3D space, adding depth"
+    },
+    {
+      "level": "H3",
+      "page": 16,
+      "text": "and realism. A sync meter (based on phase coherence) tracks synchronization level"
+    },
+    {
+      "level": "H3",
+      "page": 16,
+      "text": "over time. It offers a more immersive and visually compelling way to observe the"
+    },
+    {
+      "level": "H3",
+      "page": 16,
+      "text": "phenomenon."
+    },
+    {
+      "level": "H3",
+      "page": 16,
+      "text": "15"
+    },
+    {
+      "level": "H3",
+      "page": 17,
+      "text": "16"
+    },
+    {
+      "level": "H3",
+      "page": 18,
+      "text": "Figure 1: Synchronization Level Over Time"
+    },
+    {
+      "level": "H3",
+      "page": 18,
+      "text": "17"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "The principles derived from firefly synchronization find applications in diverse fields:"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Wireless Sensor Networks"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Algorithms inspired by firefly synchronization"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "help coordinate timing in distributed sensor networks without centralized con-"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "trol."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Power Grid Stability"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Understanding how synchronization emerges and"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "fails in oscillator networks informs grid stability management."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Parallel Computing"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Synchronization protocols for distributed computing"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "draw inspiration from biological synchronization."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Neuroscience"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Insights into how neural synchrony emerges aid understanding"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "of brain disorders like epilepsy and Parkinson’s disease."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Cardiac Research"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Principles of biological oscillator coupling inform the"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "design of better cardiac pacemakers."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "•"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "Chronobiology"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": ": Understanding entrainment mechanisms helps address cir-"
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "cadian rhythm disorders."
+    },
+    {
+      "level": "H3",
+      "page": 19,
+      "text": "18"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "This comprehensive study has examined firefly synchronization from multiple per-"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "spectives:"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• We presented detailed biological mechanisms underlying firefly flashing and"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "synchronization behavior, including the biochemical pathways and neural con-"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "trol systems."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• The mathematical framework of coupled oscillators was developed, showing"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "how both pulse-coupled and continuous models can describe different aspects"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "of the phenomenon."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• Our numerical simulations demonstrated how local interactions lead to global"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "synchronization, with quantitative analysis of parameter dependencies."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• We explored the broad applications of synchronization principles across science"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "and engineering disciplines."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "Future research directions could investigate:"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• Effects of environmental noise and habitat fragmentation on synchronization"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• Evolutionary dynamics of synchronous versus asynchronous firefly species"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "• Applications to swarm robotics and self-organizing artificial systems"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "The study of firefly synchronization continues to provide profound insights into"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "how simple local rules can generate complex coordinated behavior - a principle that"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "underlies many natural and engineered systems."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "For better understanding, here’s a real-world video showcasing natural firefly syn-"
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "chronization: Scan the QR code to watch real fireflies synchronize in nature."
+    },
+    {
+      "level": "H3",
+      "page": 20,
+      "text": "19"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Gopika"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Introduction and Code Work), Simulation and Cod-"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "ing Work"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Ishika"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Kuramoto Model) , Report work"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Mehak"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Pulse-Coupled Oscillator Model) , Report work"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Shanti"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Oscillation and Waves)"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Siya"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Oscillation and Waves)"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Pari"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Application and Implementation,Conclusion), PPT work"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "Saanvi"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "• PPT explanation(Biological Inference), PPT work"
+    },
+    {
+      "level": "H3",
+      "page": 21,
+      "text": "20"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<!DOCTYPE html >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<html lang =\"en\">"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<head >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<meta charset =\"UTF -8\">"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<meta name =\" viewport\" content =\" width=device -width , initial"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "-scale =1.0\" >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<title >Firefly"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "Synchronization </title >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<script src=\" https :// cdnjs.cloudflare.com/ajax/libs/p5.js"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "/1.4.0/ p5.js\"></script >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<style >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "body , html {"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "margin: 0;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "padding: 0;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "overflow: hidden;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "height: 100"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "%;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "canvas {"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "display: block;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "</style >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "</head >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<body >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "<script >"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "let fireflies = [];"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "let numFireflies = 50;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "let syncStrength = 0.01;"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "// Speed of synchronization"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "let randomMovementStrength = 0.2;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Movement"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "randomness"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "function setup () {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "createCanvas(windowWidth , windowHeight , WEBGL);"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "for (let i = 0; i < numFireflies; i++) {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "fireflies.push(new Firefly(random(width), random("
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "height), random (-500, 500)));"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "function draw () {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "background (0, 0, 50);"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Dark blue background for space"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "feel"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "rotateX(frameCount * 0.01);"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "rotateY(frameCount * 0.01);"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Update and display each firefly"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "fireflies.forEach(firefly => {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "firefly.update ();"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "firefly.display ();"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "});"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Synchronization: Bring fireflies ’ phases"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "together"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "synchronizeFireflies ();"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Synchronize all fireflies ’ phases to create"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "blinking sync"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "function"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "synchronizeFireflies () {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "let avgPhase = 0;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "fireflies.forEach(firefly => {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "avgPhase += firefly.phase;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "});"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "avgPhase /= fireflies.length;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "// Adjust fireflies ’ phase towards the average phase for"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "synchronization"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "fireflies.forEach(firefly => {"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "let phaseDifference = avgPhase - firefly.phase;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "firefly.phase += phaseDifference * syncStrength;"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "});"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Firefly class"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "class Firefly {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "constructor(x, y, z) {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.pos = createVector(x, y, z);"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.phase = random (1); // Random"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "starting phase"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.size = 8;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Size of the firefly"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.brightness = 0;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.angle = random(TWO_PI);"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Movement angle"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.speed = random (0.5, 1.5);"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Movement speed"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "update () {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Move randomly"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "within the 3D space"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.pos.x += cos(this.angle) * this.speed;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.pos.y += sin(this.angle) * this.speed;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Ensure they stay within the screen bounds (wrap"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "around)"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "if (this.pos.x > width / 2) this.pos.x = -width / 2;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "if (this.pos.x < -width / 2) this.pos.x = width / 2;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "if (this.pos.y > height / 2) this.pos.y = -height / 2;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "if (this.pos.y < -height / 2) this.pos.y = height / 2;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Update the phase (firefly"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "flicker using sine wave)"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.brightness = 127 * (sin(TWO_PI * this.phase) + 1)"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": ";"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Smooth sine wave for blinking"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "if (this.phase"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": ">= 1) {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.phase = 0;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Reset phase when it reaches 1"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "} else {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "this.phase += 0.01;"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Slowly"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "increase the phase"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "display () {"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "push ();"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "translate(this.pos.x, this.pos.y, this.pos.z);"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "noStroke ();"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "fill (255, 255, 0, this.brightness);"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "// Yellow glow"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "with transparency"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "sphere(this.size);"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "// Draw the firefly as a glowing"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "sphere"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "pop();"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "}"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "</script >"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "</body >"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "</html >"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "import numpy as np"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "import"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "matplotlib.pyplot as plt"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "import"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "matplotlib.animation as animation"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# Parameters"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "n_fireflies = 20"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "phases = np.random.rand(n_fireflies) * 0.5"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# start more"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "spread out"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "delta = 0.01"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# slower phase"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "increase"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "eps = 0.05"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# weaker sync"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "force"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# Data for sync meter"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "sync_values = []"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# Create figure with 2 subplots (top: bars , bottom: sync graph"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": ")"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "fig , (ax1 , ax2) = plt.subplots (2, 1, figsize =(8, 6),"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "gridspec_kw ={’height_ratios ’: [3, 1]})"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "# Bar chart (firefly phases)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "bars = ax1.bar(range(n_fireflies), phases , color=’blue ’)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax1.set_ylim (0, 1.1)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax1.set_title (\" Firefly"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "Synchronization \")"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax1.set_ylabel (\" Phase (0 to 1)\")"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# Line plot (sync meter)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "sync_line , = ax2.plot ([], [], color=’green ’)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax2.set_xlim (0, 200)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# 200 frames"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax2.set_ylim (0, 0.3)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# phase std dev range"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax2.set_title (\" Synchronization"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "Meter (Standard"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "Deviation of"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "Phases)\")"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax2.set_xlabel (\" Time (frames)\")"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "ax2.set_ylabel (\"Std Dev\")"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "def update(frame):"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "global phases , sync_values"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "new_phases = phases + delta"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "flashed = new_phases"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": ">= 1.0"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "for i in range(n_fireflies):"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "if flashed[i]:"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "new_phases[i] = 0"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "for j in range(n_fireflies):"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "if i != j:"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "new_phases[j] += eps * (1 - new_phases[j])"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "new_phases = np.clip(new_phases , 0, 1)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# Update bars"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "for bar , h in zip(bars , new_phases):"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "bar.set_height(h)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "bar.set_color(’yellow ’ if h > 0.95 else ’blue ’)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# Update sync meter"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "std = np.std(new_phases)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "sync_values.append(std)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "sync_line.set_data(range(len(sync_values)), sync_values)"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "# Auto -scroll x-axis"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "if len(sync_values) > 200:"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "ax2.set_xlim(len(sync_values) -200, len(sync_values))"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "phases [:] = new_phases"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "return bars , sync_line"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "ani = animation.FuncAnimation(fig , update , frames =400,"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "interval =50, blit=False)"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "plt.tight_layout ()"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "plt.show ()"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "("
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "f"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": ")"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "("
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "f"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": ")"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "N"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "=1"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "j"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 11,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 12,
+      "text": "i"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "1"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "2"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "3"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "4"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "5"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "6"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "7"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "8"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "9"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "10"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "11"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "12"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "13"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "14"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "15"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "16"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "17"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "18"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "19"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "20"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "21"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "22"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "23"
+    },
+    {
+      "level": "Body",
+      "page": 13,
+      "text": "24"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "25"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "26"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "27"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "28"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "29"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "30"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "31"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "32"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "33"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "34"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "35"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "36"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "37"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "38"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "39"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "40"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "41"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "42"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "43"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "44"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "45"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "46"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "47"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "48"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "49"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "50"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "51"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "52"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "53"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "54"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "55"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "56"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "57"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "58"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "59"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "60"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "61"
+    },
+    {
+      "level": "Body",
+      "page": 14,
+      "text": "62"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "63"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "64"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "65"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "66"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "67"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "68"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "69"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "70"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "71"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "72"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "73"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "74"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "75"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "76"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "77"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "78"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "79"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "80"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "81"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "82"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "83"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "84"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "85"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "86"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "87"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "88"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "89"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "90"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "91"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "92"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "93"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "94"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "95"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "96"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "97"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "98"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "99"
+    },
+    {
+      "level": "Body",
+      "page": 15,
+      "text": "100"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "101"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "102"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "103"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "104"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "105"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "106"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "107"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "1"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "2"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "3"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "4"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "5"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "6"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "7"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "8"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "9"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "10"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "11"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "12"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "13"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "14"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "15"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "16"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "17"
+    },
+    {
+      "level": "Body",
+      "page": 16,
+      "text": "18"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "19"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "20"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "21"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "22"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "23"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "24"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "25"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "26"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "27"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "28"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "29"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "30"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "31"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "32"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "33"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "34"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "35"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "36"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "37"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "38"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "39"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "40"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "41"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "42"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "43"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "44"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "45"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "46"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "47"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "48"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "49"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "50"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "51"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "52"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "53"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "54"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "55"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "56"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "57"
+    },
+    {
+      "level": "Body",
+      "page": 17,
+      "text": "58"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "59"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "60"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "61"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "62"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "63"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "64"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "65"
+    },
+    {
+      "level": "Body",
+      "page": 18,
+      "text": "66"
+    }
+  ]
+}

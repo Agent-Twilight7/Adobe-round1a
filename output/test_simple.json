@@ -1,0 +1,25 @@
+{
+  "title": "This is a Title",
+  "outline": [
+    {
+      "level": "H1",
+      "page": 1,
+      "text": "This is H1"
+    },
+    {
+      "level": "H2",
+      "page": 1,
+      "text": "This is H2"
+    },
+    {
+      "level": "H3",
+      "page": 1,
+      "text": "This is H3"
+    },
+    {
+      "level": "Body",
+      "page": 1,
+      "text": "This is body text."
+    }
+  ]
+}
